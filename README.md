@@ -62,7 +62,7 @@ you've just cloned!!
 
 ### Usage
 ```
-> python spam-sms (1).py
+> python 'spam-sms (1).py'
 ```
 
 </p> 
